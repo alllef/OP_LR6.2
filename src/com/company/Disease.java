@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Disease<T> {
+public class Disease<T> { // Шаблонный класс болезни симптомами
     String name;
     int sickNumber=0;
     List<T> symptoms = new ArrayList<>();

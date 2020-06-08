@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 
-public class Patient {
+public class Patient {// Класс пациента с симптомами
 
 ArrayList<String> symptoms = new ArrayList<>();
 
